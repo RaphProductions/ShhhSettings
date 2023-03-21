@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ShhhSettings (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ShhhSettings (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
